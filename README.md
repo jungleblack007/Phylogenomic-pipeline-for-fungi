@@ -1,4 +1,4 @@
-# Tricholomopsis
+# Phylogenomic pipeline for fungi  
 Scripts, data matrices, and phylogenetic trees of Agaricales
 
 author: Gengshen Wang
